@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World! It is main file!
+          Hello World! It is main file! I was changed thorugh feature!
         </p>
         <a
           className="App-link"
